@@ -22,6 +22,6 @@ A aplicação que desenvolvemos oferece as seguintes funcionalidades:
 
 ## Acesso à Aplicação
 
-Você pode acessar a aplicação diretamente através do seguinte link: [https://dadoscovid-kdbroh9w9gv9zwjeel9vpf.streamlit.app/](URL_da_Aplicação).
+Você pode acessar a aplicação diretamente através do seguinte link: https://dadoscovid-kdbroh9w9gv9zwjeel9vpf.streamlit.app/
 
 A aplicação está hospedada no site do Streamlit.io e está conectada ao GitHub para facilitar o acesso e a colaboração.
