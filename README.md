@@ -1,27 +1,27 @@
-# Laboratório de Análise de Dados COVID-19
+# COVID-19 Data Analysis Lab
 
-Neste laboratório, você terá a oportunidade de acompanhar uma especialista na criação de uma solução para a visualização e análise de dados com Python. Dentro deste contexto, desenvolvemos uma aplicação dedicada à análise de dados relacionados à pandemia de COVID-19. Para a análise desses dados, utilizamos a biblioteca Pandas, amplamente reconhecida por sua eficácia na manipulação e análise de dados tabulares, também conhecidos como dataframes. Após a conclusão do processo de análise, enfocamos a criação de um storytelling envolvente e informativo.
+In this lab, you will have the opportunity to follow an expert in creating a solution for data visualization and analysis using Python. Within this context, we have developed an application dedicated to the analysis of data related to the COVID-19 pandemic. For the analysis of this data, we use the Pandas library, widely recognized for its effectiveness in the manipulation and analysis of tabular data, also known as dataframes. After completing the analysis process, we focus on creating engaging and informative storytelling.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-As principais tecnologias empregadas neste projeto incluem:
+The main technologies employed in this project include:
 
-- [Python](https://www.python.org/): A linguagem de programação central.
-- [Pandas](https://pandas.pydata.org/): Utilizada para manipulação e análise de dados.
-- [Streamlit](https://streamlit.io/): Uma biblioteca que permite a criação fácil de aplicativos web interativos.
-- [Plotly](https://plotly.com/): Utilizada para criar gráficos interativos.
+- [Python](https://www.python.org/): The core programming language.
+- [Pandas](https://pandas.pydata.org/): Used for data manipulation and analysis.
+- [Streamlit](https://streamlit.io/): A library that enables the easy creation of interactive web applications.
+- [Plotly](https://plotly.com/): Used to create interactive charts.
 
-## Funcionalidades
+## Features
 
-A aplicação que desenvolvemos oferece as seguintes funcionalidades:
+The application we have developed offers the following features:
 
-- Importação de dados relacionados à COVID-19.
-- Análise e pré-processamento dos dados.
-- Criação de gráficos interativos para uma visualização mais clara.
-- Elaboração de um storytelling para comunicar insights e tendências.
+- Importation of COVID-19-related data.
+- Analysis and preprocessing of data.
+- Creation of interactive charts for clearer visualization.
+- Development of storytelling to communicate insights and trends.
 
-## Acesso à Aplicação
+## Access to the Application
 
-Você pode acessar a aplicação diretamente através do seguinte link: https://dadoscovid-kdbroh9w9gv9zwjeel9vpf.streamlit.app/
+You can access the application directly through the following link: [https://dadoscovid-kdbroh9w9gv9zwjeel9vpf.streamlit.app/](https://dadoscovid-kdbroh9w9gv9zwjeel9vpf.streamlit.app/)
 
-A aplicação está hospedada no site do Streamlit.io e está conectada ao GitHub para facilitar o acesso e a colaboração.
+The application is hosted on the Streamlit.io website and is connected to GitHub to facilitate access and collaboration.
